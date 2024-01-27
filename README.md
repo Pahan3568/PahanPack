@@ -1,6 +1,8 @@
 # PahanPack
 Resoure pack "PahanPack"
 
+PahanPack is a series of resource packs that were created for fun. To get the items you want, rename certain items (look at the table). In the recent update (PahanPack part 2), not only hats, but also other things appeared (details in the table). Be sure to have optifine or CIT resewn mod for fabric.
+
 # Cat ![cat](https://github.com/Pahan3568/PahanPack/assets/122900717/a9a451fd-0c70-4753-b991-fed38437881c)
 
 # Milk ![milk](https://github.com/Pahan3568/PahanPack/assets/122900717/46e855b3-8a64-405e-8961-53728e1a12c9) 
