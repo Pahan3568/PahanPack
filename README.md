@@ -1,9 +1,9 @@
 # PahanPack
 Resoure pack "PahanPack"
 
-<img src="https://github.com/Pahan3568/PahanPack/assets/122900717/a9a451fd-0c70-4753-b991-fed38437881c" width="100" height="100"> Cat
+![cat](https://github.com/Pahan3568/PahanPack/assets/122900717/a9a451fd-0c70-4753-b991-fed38437881c) Cat
 
-<img src="https://github.com/Pahan3568/PahanPack/assets/122900717/46e855b3-8a64-405e-8961-53728e1a12c9" width="100" height="100"> Milk
+![milk](https://github.com/Pahan3568/PahanPack/assets/122900717/46e855b3-8a64-405e-8961-53728e1a12c9) Milk
 ![mask](https://github.com/Pahan3568/PahanPack/assets/122900717/03f93365-f4ac-4eeb-a37f-e80f4e502f18) Mask
 ![kuber](https://github.com/Pahan3568/PahanPack/assets/122900717/c931c711-79d5-41db-82b2-cc84c8558063) Kuber
 ![kon](https://github.com/Pahan3568/PahanPack/assets/122900717/550293ac-50ad-48bc-a311-b55c55a24285) Candies
