@@ -1,7 +1,7 @@
 # PahanPack
 Resoure pack "PahanPack"
 
-# Cat ![cat](https://github.com/Pahan3568/PahanPack/assets/122900717/a9a451fd-0c70-4753-b991-fed38437881c)
+# Cat           ![cat](https://github.com/Pahan3568/PahanPack/assets/122900717/a9a451fd-0c70-4753-b991-fed38437881c)
 
 ![milk](https://github.com/Pahan3568/PahanPack/assets/122900717/46e855b3-8a64-405e-8961-53728e1a12c9) Milk
 
