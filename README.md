@@ -21,4 +21,4 @@ Resoure pack "PahanPack"
 ![pen](https://github.com/Pahan3568/PahanPack/assets/122900717/42e8f499-3d2b-4196-9e66-570dc1cff41a) Pen
 ![pelmeni](https://github.com/Pahan3568/PahanPack/assets/122900717/786700ad-f93e-4d78-b864-f0b852107b31) Dumplings
 ![pahan](https://github.com/Pahan3568/PahanPack/assets/122900717/a563651b-125f-4ef6-8581-ff0d30f7ce04) Pahan
-<img src="https://github.com/Pahan3568/PahanPack/assets/122900717/a9a451fd-0c70-4753-b991-fed38437881c" width="20" height="20">
+<img src="https://github.com/Pahan3568/PahanPack/assets/122900717/a9a451fd-0c70-4753-b991-fed38437881c" width="100" height="100">
